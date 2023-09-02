@@ -23,7 +23,6 @@ email: bee6@beauthebeau.pro
 description: >- # this means to ignore newlines until "baseurl:"
   Hello, world! This is the BEE6 User Docs. It's a work in progress, but it's getting there. 
 
-baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://bee6-bot.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username:  bee6-bot
@@ -31,6 +30,9 @@ github_username:  bee6-bot
 
 # Build settings
 theme: minima
+minima:
+    skin: auto
+    version: 2.5.1
 plugins:
   - jekyll-feed
 
