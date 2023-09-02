@@ -1,10 +1,9 @@
-.Gemfile
-
 _site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
-vendor
+vendor/bundle
+
 ### VisualStudioCode template
 .vscode/*
 !.vscode/settings.json
