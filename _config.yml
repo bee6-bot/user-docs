@@ -30,11 +30,6 @@ github_username:  bee6-bot
 
 
 # Build settings
-remote_theme: jekyll/minima
-theme: minima
-minima:
-    skin: auto
-    version: 3.0.0
 plugins:
   - jekyll-feed
 
