@@ -3,6 +3,7 @@ layout: post
 title: "Welcome to BEE6!"
 date: 2023-09-02 16:30:00 +0100
 categories: [ "bee6", "welcome" ]
+permalink: /bee6/welcome
 ---
 
 
